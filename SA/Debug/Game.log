@@ -1,0 +1,49 @@
+﻿  Actor.cpp
+c:\users\adina\spacearcade\sa\actor.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  Block.cpp
+c:\users\adina\spacearcade\sa\player.h : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+  Bullet.cpp
+c:\users\adina\spacearcade\sa\player.h : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+  CollisionComponent.cpp
+  Component.cpp
+  Game.cpp
+c:\users\adina\spacearcade\sa\player.h : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+c:\users\adina\spacearcade\sa\game.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\adina\spacearcade\sa\game.cpp(137): warning C4101: 'x': unreferenced local variable
+  Main.cpp
+  Math.cpp
+  Mesh.cpp
+c:\users\adina\spacearcade\sa\mesh.cpp(100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  MeshComponent.cpp
+  MoveComponent.cpp
+  Player.cpp
+c:\users\adina\spacearcade\sa\player.h : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+  PlayerMove.cpp
+c:\users\adina\spacearcade\sa\player.h : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+  Random.cpp
+  Renderer.cpp
+  Shader.cpp
+  SideBlock.cpp
+c:\users\adina\spacearcade\sa\player.h : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+  Texture.cpp
+  UIComponent.cpp
+  VertexArray.cpp
+  Generating Code...
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\adina\SpaceArcade\SA\Debug\vc120.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\adina\SpaceArcade\SA\Debug\vc120.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\adina\SpaceArcade\SA\Debug\vc120.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\adina\SpaceArcade\SA\Debug\vc120.pdb'; linking object as if no debug info
+  Game.vcxproj -> C:\Users\adina\SpaceArcade\SA\Debug\Game.exe
+  C:\Users\adina\SpaceArcade\SA\\..\Libraries\SDL\lib\win\x86\libfreetype-6.dll
+  C:\Users\adina\SpaceArcade\SA\\..\Libraries\SDL\lib\win\x86\libogg-0.dll
+  C:\Users\adina\SpaceArcade\SA\\..\Libraries\SDL\lib\win\x86\libpng16-16.dll
+  C:\Users\adina\SpaceArcade\SA\\..\Libraries\SDL\lib\win\x86\libvorbis-0.dll
+  C:\Users\adina\SpaceArcade\SA\\..\Libraries\SDL\lib\win\x86\libvorbisfile-3.dll
+  C:\Users\adina\SpaceArcade\SA\\..\Libraries\SDL\lib\win\x86\SDL2.dll
+  C:\Users\adina\SpaceArcade\SA\\..\Libraries\SDL\lib\win\x86\SDL2_image.dll
+  C:\Users\adina\SpaceArcade\SA\\..\Libraries\SDL\lib\win\x86\SDL2_mixer.dll
+  C:\Users\adina\SpaceArcade\SA\\..\Libraries\SDL\lib\win\x86\SDL2_ttf.dll
+  C:\Users\adina\SpaceArcade\SA\\..\Libraries\SDL\lib\win\x86\zlib1.dll
+  10 File(s) copied
+  C:\Users\adina\SpaceArcade\SA\\..\Libraries\GLEW\lib\win\x86\glew32.dll
+  1 File(s) copied
