@@ -4,4 +4,4 @@ while your speed increases the longer you fly!
 
 Gameplay:
 
-<img src="/gameplay.gif" alt="Gameplay"/>
+<img src="img/gameplay.gif" alt="Gameplay"/>
